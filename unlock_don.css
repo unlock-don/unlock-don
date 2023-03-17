@@ -4,7 +4,7 @@ html{
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: aqua;
+  
 }
 
 .youtube{
@@ -13,7 +13,7 @@ html{
 }
 
 .instagram{
-  color:green;
+  color:blue;
 
 }
 h4{
@@ -22,7 +22,7 @@ h4{
 }
 
 li{
-  color: yellow;
+  color: white;
 
 
 }
@@ -32,14 +32,14 @@ h1 {
 }
 
 .networkunlocking {
-  color: red ;
+  color:black ;
 }
 .icloudbypass {
-  color: red;
+  color: black;
 }
 .icloudremoval {
-  color: red;
+  color: black;
 }
 .googleaccountremoval {
-  color: red;
+  color: black;
 }
