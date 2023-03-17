@@ -1,3 +1,12 @@
+html{
+  background-image: url("/images/cellphone store pic 4.jfif") ;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: aqua;
+}
+
 h1 {
   color: blueviolet;
 }
@@ -13,4 +22,13 @@ h1 {
 }
 .googleaccountremoval {
   color: blue;
+}
+.background{
+  background-image: ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color:aqua;
+  height: 100vh;
+  
+
 }
