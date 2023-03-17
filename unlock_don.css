@@ -7,21 +7,27 @@ html{
   background-color: aqua;
 }
 
+li{
+  color: yellow;
+
+
+}
+
 h1 {
   color: blueviolet;
 }
 
 .networkunlocking {
-  color: blue;
+  color: red ;
 }
 .icloudbypass {
-  color: blue;
+  color: red;
 }
 .icloudremoval {
-  color: blue;
+  color: red;
 }
 .googleaccountremoval {
-  color: blue;
+  color: red;
 }
 .background{
   background-image: ;
