@@ -5,7 +5,10 @@ html{
   background-repeat: no-repeat;
   background-size: cover;
   
-}
+  h2{
+    color:black;
+  
+  }
 
 .youtube{
   color:aqua;
